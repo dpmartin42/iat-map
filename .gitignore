@@ -1,4 +1,8 @@
 .DS_Store
+<<<<<<< HEAD
 .ipynb_checkpoints
 .Rhistory
 Shiny/data/opencage_apikey.txt
+=======
+.Rhistory
+>>>>>>> 03e15b24af039ad31367298e8934a9dfbb96e5d8
